@@ -9,7 +9,7 @@ Rainwave - Tester (may or may not test because i force him to)
 
 ## Fixed Mods
 
-Haunted Mod Menu
+Haunted Mod Menu/Haunted Panel
 
 Computer Interface - in different repo - https://github.com/NgbatzYT/ComputerInterfaceReloaded
 
